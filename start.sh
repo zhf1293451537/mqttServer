@@ -1,0 +1,1 @@
+nohup go run main.go > runLogsForMqtt 2>&1 &
